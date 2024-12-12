@@ -26,7 +26,7 @@
                     <img src="https://codeit.com.np/storage/01JDRRNY51FKEF5GYA21CE0SEC.png" alt="">
                     <div class="px-8 py-4 shadow-md hover:shadow-2xl">
                         <p class="font-bold text-orange-600"><span class="font-semibold text-black">Course Name:</span>
-                            Laravel Course</p>
+                           Web Designing</p>
                         <p>Description: This is a fullstack web Development Course</p>
                         <p>Course Duration: 1 Month</p>
                         <p>Course Price: 1500/-</p>
